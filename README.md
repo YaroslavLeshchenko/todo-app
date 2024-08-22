@@ -30,4 +30,4 @@ React: A JavaScript library for building user interfaces
 TypeScript: A superset of JavaScript that adds static types
 SCSS: A CSS preprocessor for writing more maintainable and modular styles
 
-[DEMO]() :This link opens the live version of the landing page, allowing you to interact with the final product as it would appear to users.
+[DEMO](https://YaroslavLeshchenko.github.io/todo-app/) :This link opens the live version of the landing page, allowing you to interact with the final product as it would appear to users.
